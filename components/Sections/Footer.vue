@@ -57,7 +57,7 @@ export default {
     transition: 1s;
     
 		@media (min-width: $screen-sm){
-			text-align: right;
+			text-align: left;
 		}
 	}
 }
