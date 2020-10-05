@@ -364,7 +364,7 @@ export default {
     position: relative;
     flex: auto;
     padding: 4px;
-    padding-bottom: 32px;
+    padding-bottom: 42px;
   }
 }
 </style>
